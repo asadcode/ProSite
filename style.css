@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: rgb(197, 229, 240);
+}
+* {
+    box-sizing: border-box;
+}
+.all {
+    padding: 0 150px;
+}
+.oner .twor {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+} 
+a {
+    text-decoration: none;
+}
+.oner {
+    margin-top: 20px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 70px;
+}
+.twor {
+    margin-top: 13px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 70px;
+}
+.flexer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+.logos {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+}
+.bl {
+    color: black;
+}
+.rd {
+    color: red;
+}
+.bl:hover {
+    color: red;
+}
+.rd:hover {
+    color: black;
+}
+.rr {
+    margin-right: 10px;
+}
+.btn {
+    padding: 10px 10px;
+    border-radius: 60px;
+    color: white;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 9px;
+    border: none;
+    cursor: pointer;
+}
+.blue {
+   background-color: aqua;
+}
+.red {
+    background-color: red;
+}
+.fl {
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+.same {
+    color: white;
+    padding: 12px 90px;
+    border-radius: 60px;
+    border: none;
+}
+.links {
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+.kok {
+    background-color: #22253B;
+
+}
+.icon {
+    color: white;
+    padding: 10px;
+    border-radius: 90px;
+}
+.orng {
+    background-color: #F15525;
+}
+.flexers {
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    gap: 99px;
+}
+.onelr {
+    padding: 19px;
+}
+.se {
+    color: #F15525;
+}
+.pics {
+  padding: 60px;
+}
+.imger {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 44px;
+}
